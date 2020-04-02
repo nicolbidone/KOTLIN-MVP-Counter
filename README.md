@@ -1,10 +1,10 @@
 # MVVM Counter
 Simple MVVM example
 
-![alt tag](https://github.com/capraber/KOTLIN-MVP-Counter/blob/master/1.MVP.png)
+![alt tag](https://github.com/nicolbidone/KOTLIN-MVVM-Counter/blob/master/1.MVVM.png)
 
 ## Example Image
-![alt tag](https://github.com/capraber/KOTLIN-MVP-Counter/blob/master/2.CounterImage.png)
+![alt tag](https://github.com/nicolbidone/KOTLIN-MVVM-Counter/blob/master/2.CounterGif.gif)
 
 ## Environment set up
 - [Install AS](https://developer.android.com/studio/install.html?hl=es-419)
